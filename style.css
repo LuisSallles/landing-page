@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Righteous&family=Sarala:wght@400;700&display=swap');
+
+* {
+   background-image: linear-gradient(to right, #45005C, #4C1C5C, #7E00A8, #A500DB); 
+   background-attachment: fixed;
+   color: white;
+   line-height: 1.5;
+}
