@@ -4,8 +4,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Righteous&family=Sarala:wght@400;700&display=swap');
 
 * {
+   margin: 0;
+   padding: 0;
+   text-decoration: none;
    background-image: linear-gradient(to right, #45005C, #4C1C5C, #7E00A8, #A500DB); 
    background-attachment: fixed;
    color: white;
-   line-height: 1.5;
+   line-height: 2;
+}
+
+.cabecalho {
+    text-align: end;
 }
